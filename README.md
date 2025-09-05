@@ -77,11 +77,3 @@ exports['miranda-rights-card']:showMirandaCard()
 -- To hide the Miranda Rights card
 exports['miranda-rights-card']:hideMirandaCard()
 ```
-
-## License
-
-This resource is released under the MIT License.
-
-## Credits
-
-Created by SuperNinja
